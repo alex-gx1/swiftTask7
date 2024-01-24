@@ -19,5 +19,4 @@ class SecondVC: UIViewController {
         delegate?.setName(name: textField.text ?? "")
         navigationController?.popToRootViewController(animated: true)
     }
-    
 }

@@ -14,6 +14,7 @@
 		530323D82B6002B600CCE84F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 530323D72B6002B600CCE84F /* Assets.xcassets */; };
 		530323DB2B6002B600CCE84F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 530323D92B6002B600CCE84F /* LaunchScreen.storyboard */; };
 		530323E32B600A6A00CCE84F /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530323E22B600A6A00CCE84F /* SecondVC.swift */; };
+		533465D42B6180ED00203C96 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533465D32B6180ED00203C96 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		530323DA2B6002B600CCE84F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		530323DC2B6002B600CCE84F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		530323E22B600A6A00CCE84F /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		533465D32B6180ED00203C96 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				530323D72B6002B600CCE84F /* Assets.xcassets */,
 				530323D92B6002B600CCE84F /* LaunchScreen.storyboard */,
 				530323DC2B6002B600CCE84F /* Info.plist */,
+				533465D32B6180ED00203C96 /* ImagePicker.swift */,
 			);
 			path = task_7;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				530323D32B6002B400CCE84F /* ViewController.swift in Sources */,
 				530323CF2B6002B400CCE84F /* AppDelegate.swift in Sources */,
+				533465D42B6180ED00203C96 /* ImagePicker.swift in Sources */,
 				530323E32B600A6A00CCE84F /* SecondVC.swift in Sources */,
 				530323D12B6002B400CCE84F /* SceneDelegate.swift in Sources */,
 			);
